@@ -48,7 +48,7 @@ java -version
 
 ---
 
-### 2. Maven
+### 2. Maven 
 
 Check:
 
